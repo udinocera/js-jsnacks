@@ -1,4 +1,4 @@
-//Invitati
+
 let invitati = ["Umberto", "Chiara", "Agostino", "Angelo", "Beatrice", "Maria", "Rosa", "Paolo", "Matteo", "Bryan", "Costanza", "Francesco", "Armando"];
 let userinvitato = prompt("Dimmi il tuo nome");
 let ricerca = false;
